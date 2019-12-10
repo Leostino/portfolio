@@ -1,3 +1,19 @@
-.hover:hover {
+#github:hover {
+    color: blue;
+}
+
+.list li:hover {
+    color: blue;
+}
+
+#projects h4:hover {
+    color: blue;
+}
+
+.repo:hover {
+    color: blue;
+}
+
+footer a:hover {
     color: blue;
 }
